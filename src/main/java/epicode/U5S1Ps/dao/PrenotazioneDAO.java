@@ -7,4 +7,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface PrenotazioneDAO extends JpaRepository<Prenotazione, Long> {
+
 }
